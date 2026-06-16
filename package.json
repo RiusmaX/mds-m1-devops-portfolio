@@ -50,5 +50,8 @@
     "prisma": "^7.8.0",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
   }
 }
